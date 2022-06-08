@@ -16,7 +16,7 @@ if (is.na(height)) {
 
 #Get user input for weight
 
-weight <- readline(prompt = "What is weight in kilograms?")
+weight <- readline(prompt = "What is your weight in kilograms?")
 
 #Convert weight to a number
 
