@@ -41,7 +41,7 @@ if (is.na(height) || height < 0) {
     } else if (bmi <= 29.9) {
       print("You're in the overweight range.")
     } else if (bmi <= 39.9) {
-      print("You're int the obese range.")
+      print("You're in the obese range.")
     } else
       print("Your BMI has not been categorized")
     
